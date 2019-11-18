@@ -14,3 +14,6 @@ def gradientDesc(start, steps, size):
     for x in range(steps):
         break
 
+
+# test
+
